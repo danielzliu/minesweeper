@@ -1,2 +1,2 @@
 # minesweeper
-The minesweeper game. Written in Swedish.
+The minesweeper game. Written in Python.
